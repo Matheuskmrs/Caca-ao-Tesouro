@@ -15,9 +15,8 @@
 
 1. **Clone o Repositório**:
    ```
-   git clone https://github.com/seuusuario/cacaaotesouro.git
+   git clone https://github.com/Matheuskmrs/Caca-ao-Tesouro.git
    ```
-   Substitua `seuusuario` pelo seu nome de usuário do GitHub ou pela URL correta do repositório.
 
 2. **Abra o Projeto no Android Studio**:
    - No Android Studio, selecione "Open an Existing Project" e navegue até o diretório onde você clonou o repositório.
